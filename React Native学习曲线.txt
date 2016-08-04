@@ -2,6 +2,7 @@ React Native学习曲线：
 
 第一阶段：JavaScript基础
 	学习来源：视频：http://www.imooc.com/view/36  视频时长：1小时35分钟
+			http://www.imooc.com/learn/10  视频时长：8小时55分钟
 	学习目标：掌握JS语法，看懂代码，能写出简单代码
 	学习时长：3天
 
