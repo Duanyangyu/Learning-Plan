@@ -1,3 +1,5 @@
+学习是一件快乐的事情，让我们快乐的学习！Let's Go!
+
 React Native学习曲线：
 
 第一阶段：JavaScript基础
